@@ -1,0 +1,15 @@
+C:\Users\anast\source\repos\Reestr2\Reestr2\bin\Debug\Reestr2.exe.config
+C:\Users\anast\source\repos\Reestr2\Reestr2\bin\Debug\Reestr2.exe
+C:\Users\anast\source\repos\Reestr2\Reestr2\bin\Debug\Reestr2.pdb
+C:\Users\anast\source\repos\Reestr2\Reestr2\obj\Debug\Reestr2.csprojAssemblyReference.cache
+C:\Users\anast\source\repos\Reestr2\Reestr2\obj\Debug\Reestr2.Properties.Resources.resources
+C:\Users\anast\source\repos\Reestr2\Reestr2\obj\Debug\Reestr2.csproj.GenerateResource.cache
+C:\Users\anast\source\repos\Reestr2\Reestr2\obj\Debug\Reestr2.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\Reestr2\Reestr2\obj\Debug\Reestr2.exe
+C:\Users\anast\source\repos\Reestr2\Reestr2\obj\Debug\Reestr2.pdb
+C:\Users\anast\source\repos\Reestr2\Reestr2\obj\Debug\Reestr2.DataBase.resources
+C:\Users\anast\source\repos\Reestr2\Reestr2\obj\Debug\Reestr2.Form1.resources
+C:\Users\anast\source\repos\Reestr2\Reestr2\obj\Debug\Reestr2.services.resources
+C:\Users\anast\source\repos\Reestr2\Reestr2\obj\Debug\Reestr2.Check.resources
+C:\Users\anast\source\repos\Reestr2\Reestr2\obj\Debug\Reestr2.withdraw.resources
+C:\Users\anast\source\repos\Reestr2\Reestr2\obj\Debug\Reestr2.Add.resources
